@@ -3,7 +3,6 @@
  -Tecnology
     -HTML
     -CSS
-    -Bootstrap
     -javascript
     -php
       
