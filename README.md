@@ -1,6 +1,6 @@
 # Question-Answer-Website
 ##Academic Software Engineering Project
-  -Tecnology
+ -Tecnology
     -HTML
     -CSS
     -Bootstrap
